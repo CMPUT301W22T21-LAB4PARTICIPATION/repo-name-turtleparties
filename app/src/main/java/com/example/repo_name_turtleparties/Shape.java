@@ -9,9 +9,14 @@ public abstract class Shape {
     String color = "yellow";
 >>>>>>> 722683a399886e832d6d6a718afbc630d3a6db5f
 
+    String color = "maroon"
+
     public Shape(int x, int y){
         this.x = x;
         this.y = y;
     }
     
 }
+
+
+
