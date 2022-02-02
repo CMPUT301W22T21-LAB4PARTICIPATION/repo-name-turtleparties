@@ -6,6 +6,8 @@ public class Square extends Shape.java{
 
         }
 
+    String color = "maroon"
+            
     }
 
 
